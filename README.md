@@ -14,12 +14,16 @@ Kloning Repositori
 
 bash
 Salin kode
+
 git clone https://github.com/AkmalWinandi/Toko-Buah.git
+
 Pindah ke Direktori Proyek
 
 bash
 Salin kode
+
 cd Toko-Buah
+
 Impor ke WordPress
 
 Buka dashboard WordPress Anda.
